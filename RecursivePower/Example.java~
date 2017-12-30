@@ -1,0 +1,20 @@
+public class Example{
+  
+  public static void main(String[] args){
+    recPow(5, 3);
+    System.out.println(x);
+    
+    
+  }
+  
+  
+  public int recPow(int base, int pow){
+    
+    
+    
+    
+    return 1;
+    
+  }
+}
+  

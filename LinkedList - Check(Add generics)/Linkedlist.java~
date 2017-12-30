@@ -1,0 +1,19 @@
+//singly linked list
+public class Linkedlist{
+  
+  Object next = null;
+  Object prev = null;
+  Object current = null;
+  
+  public static void main(String[] args){
+    
+  }
+  
+  public Linkedlist(){
+   this.next = next;
+   this.prev = prev;
+    
+    
+  }
+  
+}

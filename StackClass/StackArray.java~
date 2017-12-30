@@ -1,0 +1,11 @@
+public class StackArray{
+  
+  private static int[] arr;
+  
+  public StackArray(){
+    arr = new int[10];
+  }
+  
+}
+    
+    

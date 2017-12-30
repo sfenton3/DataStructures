@@ -1,0 +1,7 @@
+public class SubSubBaseClass{
+  
+  public static void main(String[] args){
+    SubSubBaseClass ssbc = new SubSubBaseClass();
+    ssbc.barkS();
+    
+  }

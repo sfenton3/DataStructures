@@ -1,0 +1,8 @@
+public class hashMap<K,V> {
+  
+  private K k;
+  private V v;
+  
+  public static void main(String[] args){
+    
+  }

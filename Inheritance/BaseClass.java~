@@ -1,0 +1,12 @@
+public class BaseClass{
+  
+  public static void main(String[] args){
+    
+    
+  }
+  
+  public static void bark(){
+    System.out.println("Woof");
+    
+  }
+}

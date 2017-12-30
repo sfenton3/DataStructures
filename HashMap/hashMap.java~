@@ -1,0 +1,31 @@
+public class hashMap<K,V> {
+  
+  private K key;
+  private V value;
+  
+  
+  public static void main(String[] args){
+    hashMap<String, Integer> h = new hashMap<String, Integer>("Even", 8);
+    
+    
+    
+  }
+  
+  public hashMap(){
+    
+    
+  }
+  
+  public K getKey(){
+    return k;
+  }
+  
+  public void setKey(K key){
+    
+  }
+  
+  
+}
+  
+  
+  

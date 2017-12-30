@@ -1,0 +1,26 @@
+public class bit{
+  public static void main(String[] args){
+    int n = 10000000;
+    long start = System.currentTimeMillis();
+    bits(n);
+    long end = System.currentTimeMillis();
+    System.out.println(end - start);
+  
+    
+    
+  }
+  
+  public static void bits(int n){
+    for(int i = 0; i < n; i++){
+      if((n & 1) == 0)
+        ;
+    }
+  }
+  
+  public static void mod(int n){
+    for(int i = 0; i < n; i++){
+      if(n % 2 == 0)
+        ;
+    }
+  }
+}

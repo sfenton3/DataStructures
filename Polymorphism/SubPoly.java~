@@ -1,0 +1,15 @@
+public class SubPoly extends Polymorphism{
+  
+  public static void main(String[] args){
+    SubPoly sb = new SubPoly();
+    sb.bark();
+    sb.bark("bowwow");
+    
+    
+  }
+  
+  public void bark(){
+    System.out.println("bark");
+  }
+}
+  
